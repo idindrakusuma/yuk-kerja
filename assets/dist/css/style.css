@@ -1,0 +1,39 @@
+.logo-baru{
+	font-size: 1.2em;
+	text-transform: uppercase;
+}
+
+.hr{
+	margin-top:3px;
+	margin-bottom: 3px; 
+
+	border-top: 2px dotted #8c8b8b;
+}
+
+.login{
+	background-color: #3c8dbc;
+}
+
+.img{
+	height: 4.5em;
+	text-align: center;
+}
+
+.logo-bawah{
+	height: 1em;
+	color: #fff;
+}
+.new-footer{
+	text-align: center;
+	color: #f1f1f1;
+}
+.new-footer>a{
+	color: #f1f1f1;
+}
+.new-footer>a:hover{
+	color: #fff222;
+}
+.perusahaan{
+	height: 4em;
+	float: left;
+}
